@@ -11,7 +11,7 @@
 <b><p align="center">Sometimes, Only a Single Person Can Change The World!</p></b>
 <h3>Contact With Me Via :</h3>
 <li> <a href="https://facebook.com/ToxicNoobOfficial">Facebook Page</a></li>
-<li> Email : toxicnoob.sl4d3.official@gmail.com
+<li> Email : toxicnoob.sl4d3.official@gmail.com</li>
 <h3>Profile Status </h3>
 
 <img align="center" src="https://metrics.lecoq.io/toxic-noob">
