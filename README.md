@@ -15,11 +15,19 @@
 
 <img align="center" src="https://metrics.lecoq.io/toxic-noob">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=toxic-noob&show_icons=true&locale=en&layout=compact&theme=dark" alt="toxic-noob" /></p>
+[![Readme Card](https://github-readme-stats.vercel.app/api/top-langs?username=toxic-noob&show_icons=true&locale=en&layout=compact&theme=algolia)](https://github.com/toxic-noob)
+[![Readme Card](https://github-readme-stats.vercel.app/api?username=toxic-noob&show_icons=true&locale=en&theme=algolia)](https://github.com/toxic-noob)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=toxic-noob&show_icons=true&locale=en&theme=dark" alt="toxic-noob" /></p>
+**Some Useful Tools:**
 
-<br><br>
-<h3>Visitors :</h3>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=toxic-noob&repo=ToxicBomber&theme=algolia)](https://github.com/toxic-noob/ToxicBomber)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=toxic-noob&repo=Link-X&theme=algolia)](https://github.com/toxic-noob/Link-X)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=toxic-noob&repo=SQLiToolkit&theme=algolia)](https://github.com/toxic-noob/SQLiToolkit)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=toxic-noob&repo=EncDecPro&theme=algolia)](https://github.com/toxic-noob/EncDecPro)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=toxic-noob&repo=D-Pro&theme=algolia)](https://github.com/toxic-noob/D-Pro)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=toxic-noob&repo=PdfSpeaker&theme=algolia)](https://github.com/toxic-noob/PdfSpeaker)
+
+<h3>Visitors : </h3>
 <br>
 <img src="https://profile-counter.glitch.me/Toxic-Noob/count.svg" alt="Visitors">
