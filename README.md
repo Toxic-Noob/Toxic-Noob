@@ -18,7 +18,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/top-langs?username=toxic-noob&show_icons=true&locale=en&layout=compact&theme=algolia)](https://github.com/toxic-noob)
 [![Readme Card](https://github-readme-stats.vercel.app/api?username=toxic-noob&show_icons=true&locale=en&theme=algolia)](https://github.com/toxic-noob)
 
-**Some Useful Tools:**
+## Some Useful Tools:
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=toxic-noob&repo=ToxicBomber&theme=algolia)](https://github.com/toxic-noob/ToxicBomber)
