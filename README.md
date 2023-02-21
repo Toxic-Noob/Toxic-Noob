@@ -13,7 +13,7 @@
 <li> Email : toxicnoob.sl4d3.official@gmail.com</li>
 <h3>Profile Status </h3>
 
-<img align="center" src="https://metrics.lecoq.io/toxic-noob">
+<!-- <img align="center" src="https://metrics.lecoq.io/toxic-noob"> -->
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/top-langs?username=toxic-noob&show_icons=true&locale=en&layout=compact&theme=algolia)](https://github.com/toxic-noob)
 [![Readme Card](https://github-readme-stats.vercel.app/api?username=toxic-noob&show_icons=true&locale=en&theme=algolia)](https://github.com/toxic-noob)
