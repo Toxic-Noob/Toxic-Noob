@@ -21,12 +21,12 @@
 ## Some Useful Tools:
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=toxic-noob&repo=ToxicBomber&theme=algolia)](https://github.com/toxic-noob/ToxicBomber)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=toxic-noob&repo=Link-X&theme=algolia)](https://github.com/toxic-noob/Link-X)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=toxic-noob&repo=SQLiToolkit&theme=algolia)](https://github.com/toxic-noob/SQLiToolkit)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=toxic-noob&repo=EncDecPro&theme=algolia)](https://github.com/toxic-noob/EncDecPro)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=toxic-noob&repo=D-Pro&theme=algolia)](https://github.com/toxic-noob/D-Pro)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=toxic-noob&repo=PdfSpeaker&theme=algolia)](https://github.com/toxic-noob/PdfSpeaker)
+[![ToxicBomber](https://github-readme-stats.vercel.app/api/pin/?username=toxic-noob&repo=ToxicBomber&theme=algolia)](https://github.com/toxic-noob/ToxicBomber)
+[![Link-X](https://github-readme-stats.vercel.app/api/pin/?username=toxic-noob&repo=Link-X&theme=algolia)](https://github.com/toxic-noob/Link-X)
+[![SQLiToolkit](https://github-readme-stats.vercel.app/api/pin/?username=toxic-noob&repo=SQLiToolkit&theme=algolia)](https://github.com/toxic-noob/SQLiToolkit)
+[![EncDecPro](https://github-readme-stats.vercel.app/api/pin/?username=toxic-noob&repo=EncDecPro&theme=algolia)](https://github.com/toxic-noob/EncDecPro)
+[![D-Pro](https://github-readme-stats.vercel.app/api/pin/?username=toxic-noob&repo=D-Pro&theme=algolia)](https://github.com/toxic-noob/D-Pro)
+[![PdfSpeaker](https://github-readme-stats.vercel.app/api/pin/?username=toxic-noob&repo=PdfSpeaker&theme=algolia)](https://github.com/toxic-noob/PdfSpeaker)
 
 <h3>Visitors : </h3>
 <br>
