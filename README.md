@@ -1,4 +1,4 @@
-[![OmniTotal](https://avatars.githubusercontent.com/u/84739872)](https://github.com/toxic-noob)
+<p align="center"><a href="https://github.com/toxic-noob"><img src="https://avatars.githubusercontent.com/u/84739872" width="225" height="225" alt="OmniTotal"></a></p>
 
 <b><p align="center">There are Infinite Possibilities<br>Choose One and Run!</p></b>
 
