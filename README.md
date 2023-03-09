@@ -12,6 +12,7 @@
 
 [![ToxicBomber](https://github-readme-stats.vercel.app/api/pin/?username=toxic-noob&repo=ToxicBomber&theme=algolia)](https://github.com/toxic-noob/ToxicBomber)
 [![Link-X](https://github-readme-stats.vercel.app/api/pin/?username=toxic-noob&repo=Link-X&theme=algolia)](https://github.com/toxic-noob/Link-X)
+[![TermuxToolkit](https://github-readme-stats.vercel.app/api/pin/?username=toxic-noob&repo=TermuxToolkit&theme=algolia)](https://github.com/toxic-noob/TermuxToolkit)
 [![SQLiToolkit](https://github-readme-stats.vercel.app/api/pin/?username=toxic-noob&repo=SQLiToolkit&theme=algolia)](https://github.com/toxic-noob/SQLiToolkit)
 [![EncDecPro](https://github-readme-stats.vercel.app/api/pin/?username=toxic-noob&repo=EncDecPro&theme=algolia)](https://github.com/toxic-noob/EncDecPro)
 [![D-Pro](https://github-readme-stats.vercel.app/api/pin/?username=toxic-noob&repo=D-Pro&theme=algolia)](https://github.com/toxic-noob/D-Pro)
